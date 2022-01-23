@@ -1,0 +1,42 @@
+
+.navbar{
+    background-color:black ;
+    border-radius: 0;
+    border:0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+body{
+    background-color: darkslategray;
+    
+    
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-center{
+    font-family:'Times New Roman', Times, serif ;
+    color: floralwhite;
+}
+.c{
+    background-color: rgb(154, 211, 211);
+    padding: 20px;
+    
+}
+ul{
+    text-align: center;
+}
+.container.row{
+    border-radius: 0 !important;
+}
+@media (max-width:767px)
+{
+.container{
+    margin: 4% 4% 4% 4%;
+}
+.visible-xs{
+    display: block !important;
+}
+}
